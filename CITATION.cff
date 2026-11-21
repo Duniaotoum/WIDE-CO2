@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "WIDE: Machine-learning-assisted calibration of rovibrational energy levels of CO2 isotopologues (code)"
+version: 2.0.0
+doi: 10.5281/zenodo.24422946
+date-released: 2026-11-21
+url: "https://github.com/Duniaotoum/WIDE-CO2"
+license: MIT
+authors:
+  - family-names: Ibrahim
+    given-names: "Mohammad Taha I."
+    orcid: "https://orcid.org/0009-0007-9578-4037"
+    affiliation: "Khalifa University"
+  - family-names: Alatoom
+    given-names: Dunia
+    orcid: "https://orcid.org/0009-0001-2370-2721"
+    affiliation: "The University of Jordan"
+  - family-names: El-Kork
+    given-names: Nayla
+    orcid: "https://orcid.org/0000-0002-5402-4951"
+    affiliation: "Khalifa University"
+  - family-names: Yurchenko
+    given-names: "Sergei N."
+    orcid: "https://orcid.org/0000-0001-9286-9501"
+    affiliation: "University College London"
+  - family-names: Tennyson
+    given-names: Jonathan
+    orcid: "https://orcid.org/0000-0002-4994-5238"
+    affiliation: "University College London"
+keywords:
+  - CO2
+  - rovibrational energy levels
+  - MARVEL
+  - machine learning
+  - LightGBM
