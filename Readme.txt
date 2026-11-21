@@ -4,7 +4,7 @@ Files
   Predictions.csv: same rows and original columns as the input file, followed by WIDE_Predictions, Ran_Predictions and MARVEL_Distance.
 
 How to run
-1. Download Input.csv from Zenodo (DOI:10.5281/zenodo.24422946)
+1. Download Input.csv from Zenodo (DOI: 10.5281/zenodo.24422946) into the same folder as WIDE_Random.ipynb.
 2. Use Python 3.12 with Jupyter Notebook or JupyterLab. Install the numerical
    packages used for the supplied results:
    python -m pip install numpy==2.5.1 pandas==3.0.3 lightgbm==4.7.0 scikit-learn==1.9.0
