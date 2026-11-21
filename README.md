@@ -14,7 +14,7 @@ Two validation schemes are run:
 | Scheme | What is held out | What it measures |
 |---|---|---|
 | **WIDE** (Withheld Isotopologue Delta Estimation) | One whole isotopologue, excluded from fitting and early stopping | Transfer to an unseen isotopologue |
-| **Random** | Five shuffled folds of the MARVEL-known levels | Interpolation among species already seen |
+| **Random** | 20% of the MARVEL-known levels | Interpolation among species already seen |
 
 ## Repository contents
 
